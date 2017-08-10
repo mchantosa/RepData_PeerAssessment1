@@ -7,7 +7,7 @@ output:
 
 Assignment completed by: mchantosa
 
-###Introduction
+### Introduction
 
 This is a submission for Reproducible Research- Peer Assessment 1. The requirements for this submission are to assess the provided dataset ([available here](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip)) as follows:
 
@@ -21,7 +21,7 @@ This is a submission for Reproducible Research- Peer Assessment 1. The requireme
 1. Produce a panel plot comparing the average number of steps taken per 5-minute interval across weekdays and weekends
 1. All of the R code needed to reproduce the results (numbers, plots, etc.) should be in this report
 
-###Data
+### Data
 
 *  **Data profile:** This data is comprised of personal movement data as would be collected by a device like a Fitbit, Nike Fuelband, or Jawbone Up. Device collects movement data at 5 min intervals throughout the day. This data represents two months of data spanning October and November of 2012.
 *  **File format:** zipped csv
